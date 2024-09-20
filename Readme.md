@@ -26,7 +26,7 @@ You can find the tutorial for this application at [The CalliCoder Blog](https://
 
 # this is a guide, is the step for step running application
 
-1. create data base in this case is mongo database, and your using a new image instance of the mongo image in docker
+1. create data base in this case is mongo database, and you need to use a new image instance of the mongo image in Docker
 
 2. using env variables for database connection
     1. in the file `database.config.js` change the `URI` of the database a example is:
